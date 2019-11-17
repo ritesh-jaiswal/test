@@ -3,5 +3,6 @@
 	<body>
 		<p>first paragraph</p>
 		<h1>Test Paragraph</h1>
+		<h2>test</h2>
 	</body>
 </html>
